@@ -1,4 +1,4 @@
-# paylyte-ai
+# Paylyte.ai
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-paylyte-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://paylyte.ai/
+Paylyte.ai provides an Agent Trust Score that evaluates AI agents based on proof of outcome, recorded on the Bitcoin blockchain. Users can verify the authenticity of AI agent claims before purchase, ensuring transparency and trust in AI services. The platform aggregates trust data, offers scoring APIs, and integrates with AI marketplaces to help developers and consumers make informed decisions about AI agents.
+
+**Areas:** Trust Layer · Agent Economy · AI Agents · Proof of Outcome · Bitcoin · Directory
+
+## Paylyte.ai on APIs.io
+
+Everything profiled for Paylyte.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/paylyte-ai/](https://apis.io/providers/paylyte-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [Paylyte.ai Aave API](https://apis.io/apis/paylyte-ai/paylyte-ai-aave-api/) — The Aave API from Paylyte.ai — 1 operation(s) for aave.
+- [Paylyte.ai Advisories API](https://apis.io/apis/paylyte-ai/paylyte-ai-advisories-api/) — The Advisories API from Paylyte.ai — 1 operation(s) for advisories.
+- [Paylyte.ai Agents API](https://apis.io/apis/paylyte-ai/paylyte-ai-agents-api/) — The Agents API from Paylyte.ai — 2 operation(s) for agents.
+- [Paylyte.ai Anchors API](https://apis.io/apis/paylyte-ai/paylyte-ai-anchors-api/) — The Anchors API from Paylyte.ai — 2 operation(s) for anchors.
+- [Paylyte.ai Claims API](https://apis.io/apis/paylyte-ai/paylyte-ai-claims-api/) — The Claims API from Paylyte.ai — 2 operation(s) for claims.
+- [Paylyte.ai Ct API](https://apis.io/apis/paylyte-ai/paylyte-ai-ct-api/) — The Ct API from Paylyte.ai — 1 operation(s) for ct.
+- [Paylyte.ai Data API](https://apis.io/apis/paylyte-ai/paylyte-ai-data-api/) — The Data API from Paylyte.ai — 1 operation(s) for data.
+- [Paylyte.ai Discovery API](https://apis.io/apis/paylyte-ai/paylyte-ai-discovery-api/) — The Discovery API from Paylyte.ai — 1 operation(s) for discovery.
+- [Paylyte.ai Earnings API](https://apis.io/apis/paylyte-ai/paylyte-ai-earnings-api/) — The Earnings API from Paylyte.ai — 1 operation(s) for earnings.
+- [Paylyte.ai Leaderboard API](https://apis.io/apis/paylyte-ai/paylyte-ai-leaderboard-api/) — The Leaderboard API from Paylyte.ai — 1 operation(s) for leaderboard.
+- [Paylyte.ai Marketplace API](https://apis.io/apis/paylyte-ai/paylyte-ai-marketplace-api/) — The Marketplace API from Paylyte.ai — 1 operation(s) for marketplace.
+- [Paylyte.ai MCP API](https://apis.io/apis/paylyte-ai/paylyte-ai-mcp-api/) — The Mcp API from Paylyte.ai — 1 operation(s) for mcp.
+- [Paylyte.ai Prints API](https://apis.io/apis/paylyte-ai/paylyte-ai-prints-api/) — The Prints API from Paylyte.ai — 1 operation(s) for prints.
+- [Paylyte.ai Records API](https://apis.io/apis/paylyte-ai/paylyte-ai-records-api/) — The Records API from Paylyte.ai — 1 operation(s) for records.
+- [Paylyte.ai Status API](https://apis.io/apis/paylyte-ai/paylyte-ai-status-api/) — The Status API from Paylyte.ai — 1 operation(s) for status.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Paylyte.ai Agentic Access](https://apis.io/agentic-access/paylyte-ai/paylyte-ai-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Paylyte.ai API Rules](https://apis.io/rules/paylyte-ai/paylyte-ai-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Paylyte.ai Domain Security](https://apis.io/security/paylyte-ai/paylyte-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://paylyte.ai/)
+- [Documentation](https://paylyte.ai/docs)
+- [Getting started](https://paylyte.ai/learn)
+- [API reference](https://api.paylyte.ai/docs)
+- [Support](https://paylyte.ai/support)
+- [Blog](https://paylyte.ai/blog)
+- [Terms of service](https://paylyte.ai/terms)
+- [Privacy policy](https://paylyte.ai/privacy)
+- [Status](https://paylyte.ai/status)
+
+## API Evangelist rating
+
+**Kin Score 42.0** — developing · rubric 0.27.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 39.5 |
+| Contract governance | 65.5 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 34.2 |
+
+**Agent readiness 26.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/paylyte-ai/](https://apis.io/providers/paylyte-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Paylyte.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/paylyte-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
